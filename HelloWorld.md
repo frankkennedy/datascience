@@ -8,3 +8,5 @@
 | ----- | --------- | -------- |
 | TBD   | Python    | Jupyter Notebook |
 | TBD   | R         |          |
+| TBD   | SQL       |          |
+| TBD   | SAS       |          |
