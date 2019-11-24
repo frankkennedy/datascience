@@ -3,7 +3,8 @@
 | ---------- | ------- |
 | Frank Kennedy | Learn Markdown and New Data Science Tools |
 
-### Markdown files are indexable simple catalogs
+### Markdown files can be used as catalogs for an indexed codebase 
 | Index | Code Type | Comments |
 | ----- | --------- | -------- |
-| TBD   | Pythono   | Jupyter Notebook |
+| TBD   | Python    | Jupyter Notebook |
+| TBD   | R         |          |
